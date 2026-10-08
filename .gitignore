@@ -1,5 +1,7 @@
 venv/
+sel-venv/
 __pycache__/
 .pytest_cache/
 *.pyc
 .env
+*.log
